@@ -1,0 +1,1 @@
+.search-box[data-v-060e5305]{animation:search-in-060e5305 .25s cubic-bezier(.2,.8,.2,1)}@keyframes search-in-060e5305{0%{transform:scaleX(.2);opacity:0}to{transform:scaleX(1);opacity:1}}input[type=search][data-v-060e5305]::-webkit-search-cancel-button{-webkit-appearance:none}
